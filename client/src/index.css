@@ -7,3 +7,14 @@
   background-blend-mode: overlay, overlay, overlay, normal;
   height: 100vh;
 }
+
+.glass {
+
+  width: 500px;
+  padding: 20px;
+  background: rgba(255, 255, 255, 0.15);
+  /* background: transparent; */
+  backdrop-filter: blur(20px);
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}

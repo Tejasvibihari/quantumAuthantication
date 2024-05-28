@@ -57,8 +57,8 @@ export default function SignupForm() {
     return (
         <>
 
-            <div className='signup'>
-                <div className='p-2 mx-auto'>
+            <div className='signup pt-20'>
+                <div className='p-2 mx-auto glass'>
                     <div className='flex flex-col max-w-lg mx-auto my-auto p-2 border rounded-lg'>
                         <div className='mx-auto my-2'>
                             <div className='text-center mb-4 font-sans font-bold text-xl'>
